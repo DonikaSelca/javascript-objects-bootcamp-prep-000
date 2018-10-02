@@ -1,4 +1,4 @@
 var playlist = {
-  My Bloody Valentine: 'Sometimes',
+  artistName: 'songTitle'
   
 }
